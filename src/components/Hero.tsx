@@ -27,7 +27,7 @@ const Hero = () => (
             <span className="opacity-80">Dogs Served</span>
           </div>
           <div className="flex flex-col items-center">
-            <span className="text-[1.5rem] font-extrabold text-orange-light leading-none">5.0★</span>
+            <span className="text-[1.5rem] font-extrabold text-orange-light leading-none">4.4★</span>
             <span className="opacity-80">Local Reviews</span>
           </div>
           <div className="flex flex-col items-center">

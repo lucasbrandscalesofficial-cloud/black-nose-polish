@@ -1,6 +1,6 @@
 const trustItems = [
   { icon: "🏆", label: "18 Years", suffix: " of Local Care" },
-  { icon: "⭐", label: "5.0 Rated", suffix: " on Yelp & Google" },
+  { icon: "⭐", label: "4.4 Rated", suffix: " on Yelp & Google" },
   { icon: "🐾", label: "2,000+", suffix: " Dogs Cared For" },
   { icon: "🏠", label: "Cage-Free", suffix: " · Always" },
 ];
