@@ -16,10 +16,10 @@ const services: Service[] = [
     title: "Dog Day Care",
     description: "A full day of supervised play, rest, and walks.",
     prices: [
-      { label: "Full Day", value: "$45" },
-      { label: "Half Day", value: "$28" },
-      { label: "10-Pack", value: "$400" },
-      { label: "Monthly", value: "$650" },
+      { label: "Full Day", value: "$65" },
+      { label: "Half Day", value: "$65" },
+      { label: "10-Pack", value: "$600" },
+      { label: "Monthly", value: "$850" },
     ],
     benefits: [
       "Play groups matched by energy",
@@ -35,7 +35,7 @@ const services: Service[] = [
     description: "Easy self-serve baths with everything ready for you.",
     prices: [
       { label: "Self-Serve Bath", value: "$15" },
-      { label: "Nail Clipping", value: "$10" },
+      { label: "Nail Clipping", value: "$20" },
       { label: "Packages", value: "Call" },
     ],
     benefits: [
@@ -50,9 +50,9 @@ const services: Service[] = [
     title: "Dog Walking",
     description: "Reliable one-hour walks from people your dog knows.",
     prices: [
-      { label: "Single Walk", value: "$25" },
-      { label: "2–3x/Week", value: "$21" },
-      { label: "4–5x/Week", value: "$19" },
+      { label: "Single Walk", value: "$35" },
+      { label: "2–3x/Week", value: "$32" },
+      { label: "4–5x/Week", value: "$30" },
     ],
     benefits: [
       "Full 60-minute walks",
@@ -66,8 +66,8 @@ const services: Service[] = [
     title: "Overnight Boarding",
     description: "Overnight care in a calm, home-like space.",
     prices: [
-      { label: "Per Night", value: "$60" },
-      { label: "Holiday", value: "$70" },
+      { label: "Per Night", value: "$75" },
+      { label: "Holiday", value: "$85" },
     ],
     benefits: [
       "Always cage-free",
