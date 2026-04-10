@@ -17,7 +17,7 @@ const services: Service[] = [
     description: "A full day of supervised play, rest, and walks.",
     prices: [
       { label: "Full Day", value: "$65" },
-      { label: "Half Day", value: "$65" },
+      { label: "Half Day", value: "$45" },
       { label: "10-Pack", value: "$600" },
       { label: "Monthly", value: "$850" },
     ],
